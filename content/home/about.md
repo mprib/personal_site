@@ -12,3 +12,5 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+This is a test of writing some information in my Biography. My name is Mac. 
