@@ -1,42 +1,11 @@
 ---
-title: "If by Rudyard Kipling"
-date: 2019-01-12T22:14:57-06:00
-tags: ["poetry", "life"]
+title: "If you're looking for PT school cost data..."
+date: 2019-07-11
+tags: ["PT School", ""]
+author: "Mac"
 draft: false
 ---
 
-If you can keep your head when all about you  
-Are losing theirs and blaming it on you,  
-If you can trust yourself when all men doubt you,  
-But make allowance for their doubting too;   
-If you can wait and not be tired by waiting,  
-Or being lied about, don’t deal in lies,  
-Or being hated, don’t give way to hating,  
-And yet don’t look too good, nor talk too wise:
+If you have found your way here looking for some previous posts related to the cost of PT school, I would first like to offer my apologies for not having that content loaded up right now. I have transitioned my personal website/blog away from a squarespace site and to a Hugo site (based on the Academic Theme) as I attempt to push as much of my life into the emacs text editor as possible. In the process, much of what I had originally put together at that old site has started gathering dust in a folder somewhere, waiting to be reformatted and redistributed.
 
-If you can dreamand not make dreams your master;     
-If you can thinkand not make thoughts your aim;   
-If you can meet with Triumph and Disaster  
-And treat those two impostors just the same;   
-If you can bear to hear the truth you’ve spoken  
-Twisted by knaves to make a trap for fools,  
-Or watch the things you gave your life to, broken,  
-And stoop and build ’em up with worn-out tools:
-
-If you can make one heap of all your winnings  
-And risk it on one turn of pitch-and-toss,  
-And lose, and start again at your beginnings  
-And never breathe a word about your loss;  
-If you can force your heart and nerve and sinew  
-To serve your turn long after they are gone,   
-And so hold on when there is nothing in you  
-Except the Will which says to them: ‘Hold on!’
-
-If you can talk with crowds and keep your virtue,     
-Or walk with Kingsnor lose the common touch,  
-If neither foes nor loving friends can hurt you,  
-If all men count with you, but none too much;  
-If you can fill the unforgiving minute  
-With sixty seconds’ worth of distance run,     
-Yours is the Earth and everything that’s in it,     
-And-which is more-you’ll be a Man, my son!  
+My intention in the coming weeks is to recompile some of that information in order to make it available to people. My primary focus these days involves the switch from life as a clinician working with patients  to life as a graduate student assisting with research. Even so, I retain an interest in helping pre-PT students make more informed decisions regarding PT school applications, particularly as it relates to how those choices impact their long-term financial well-being. 
