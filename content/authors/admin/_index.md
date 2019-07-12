@@ -55,9 +55,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a physical therapist currently pursuing a PhD in Rehabilitation and Movement Science at the University of Texas at Austin. Prior to becoming a physical therapist I worked in pension consulting as an actuary. Despite my experience as a clinician I have retained a love for data, statistics and programming. I look forward to merging my varied interests into a singular research path.
+I am a physical therapist currently pursuing a PhD in Rehabilitation and Movement Science at the University of Texas at Austin. My clinical experience has been among a general outpatient population and afforded me the opportunity to become a Board Certified Specialist in Orthopedic Physical Therapy. Prior to becoming a physical therapist I worked in pension consulting as an actuary and have retained a love for data, statistics and programming. I look forward to merging my varied interests into a singular research path.
