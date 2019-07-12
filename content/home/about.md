@@ -13,4 +13,3 @@ title = "Biography"
 author = "admin"
 +++
 
-This is a test of writing some information in my Biography. My name is Mac. 
