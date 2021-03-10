@@ -15,10 +15,10 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: University of Texas at Austin
-  url: "https://education.utexas.edu/departments/kinesiology-health-education/graduate-programs/rehabilitation-movement-science"
+  url: "https://education.utexas.edu/departments/kinesiology-health-education/graduate-programs/movement-cognitive-rehabilitation-science"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the long-term impact of stroke on gait, trunk control, motion capture systems, and the clinical application of technology.
+bio: My research interests include the role of the trunk during functional activity, motion capture systems, and the clinical applications of technology.
 
 interests:
 - Gait following stroke
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a physical therapist currently pursuing a PhD in Rehabilitation and Movement Science at the University of Texas at Austin. My clinical experience has been among a general outpatient population and afforded me the opportunity to become a Board Certified Specialist in Orthopedic Physical Therapy. Prior to becoming a physical therapist I worked in pension consulting as an actuary and have retained a love for data, statistics and programming. I look forward to merging my varied interests into a singular research path.
+I am a physical therapist currently pursuing a PhD in Movement and Cognitive Rehabilitation Science at the University of Texas at Austin. My clinical experience has been among a general outpatient population and afforded me the opportunity to become a Board Certified Specialist in Orthopedic Physical Therapy. Prior to becoming a physical therapist I worked in pension consulting as an actuary and have retained a love for data, statistics and programming. My intention during my PhD is to clarify how abnormal trunk movement following stroke can provide useful insights into underlying impairments, and potentially inform novel rehab strategies to improve walking ability.
